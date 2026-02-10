@@ -1,8 +1,9 @@
 
 # Landing Page
-<img width="800" height="600" alt="Captura de tela de 2026-02-08 12-22-40" src="https://github.com/user-attachments/assets/6e43262f-9b07-4630-9379-809b50275f10" />
+[Gravação de tela de 2026-02-10 14-31-11.webm](https://github.com/user-attachments/assets/7daf0ca3-0509-4601-8c9a-73bb5006780b)
 
 Landing page desenvolvida com **HTML**, **CSS** e **JavaScript**.
+
 
 ## 📄 Descrição
 Projeto focado em layout responsivo e apresentação de conteúdo, ideal para vendas de cursos ou materiais
